@@ -1,10 +1,15 @@
 ![Banner](images/icon.png)<br>
 # Anime DL : Android Version
-
+#### Latest Version 2.1
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
 Steaming and Downloading animes becomes easy.
 
 ![screenshot](images/screenshot.png "screenshot")
+
+## New Features and changes in v2.1
+* Source 2 and source 4 some error fixes.
+* Fixed non-showing of full name in case of long anime names.
+* Download all button error fixed in source 4.
 
 ## New Features and Changes in v2.0
 * Source 4 updated with new links size having ~70mb - ~150mb and resolution mostly 480p or 720p.
