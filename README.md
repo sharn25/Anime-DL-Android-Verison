@@ -4,7 +4,7 @@
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
 Steaming and Downloading animes becomes easy.
 
-![screenshot](images/screenshot.png "screenshot")
+![screenshot](images/screenshot2.png "screenshot")
 
 ## New Features and changes in v3.0 build 0001
 * UI refreshed.
