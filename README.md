@@ -1,10 +1,16 @@
 ![Banner](images/icon.png)<br>
 # Anime DL : Android Version
-#### Latest Version 3.0 build 0001
+Anime Dl now with 7 sources to choose from.
+#### Latest Version 4.0 build 0001
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
 Steaming and Downloading animes becomes easy.
 
 ![screenshot](images/screenshot2.png "screenshot")
+
+## New Features and changes in v4.0 build 0001
+* UI refreshed.
+* New Sources added.
+* Bug Fixed.
 
 ## New Features and changes in v3.0 build 0001
 * UI refreshed.
@@ -56,7 +62,7 @@ Steaming and Downloading animes becomes easy.
 * If you have any suggestion or new feature idea feel free to contact me.
 * I want make this app to reach as many as people as possible please help me with that as i don't know any other platform to share this app.
 * For any issue feel free to email me.(Email in setting of application)
-* Source 3 only support streaming for now.
+* M3U8 downloading not supported, However you can stream the anime.
 
 Download Link:- Please see the released section.<br>
 Alternative Download Links:- http://a.animedlweb.ga/
