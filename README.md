@@ -7,6 +7,9 @@ Steaming and Downloading animes becomes easy.
 
 ![screenshot](images/screenshot2.png "screenshot")
 
+## New Features and changes in v4.1 build 0002
+* Fixed Error while clicking download All button.
+
 ## New Features and changes in v4.1 build 0001
 * Replaced Source 3 with new one.
 * All sources Refreshed.
