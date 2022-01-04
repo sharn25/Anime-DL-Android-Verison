@@ -1,10 +1,14 @@
 ![Banner](images/icon.png)<br>
 # Anime DL : Android Version
-#### Latest Version 4.5 build 0000
+#### Latest Version 4.6 build 0000
 A simple app let you watch and bulk download anime with faster anime Browsing, Streaming and Downloading.
 Steaming and Downloading animes becomes easy.
 
 ![screenshot](images/screenshot2.png "screenshot")
+
+## New Feature and changes in v4.6 build 0000
+* Updated sources 0 & 1.
+* Added option for 360, 480, 720 & 1080 under sources 0 & 1.
 
 ## New Feature and changes in v4.5 build 0000
 * Fixed Sources and removed non-working one.
